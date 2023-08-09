@@ -36,7 +36,7 @@ def circulate():
 
 
 ## Output:
-![output](/Screenshot%20(5).png)
+![output](/Screenshot%20(24).png)
 
 ## Result:
 The program to circulate the values has successfully ended
